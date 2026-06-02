@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280"/>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NGk2MDRubDFqM3p4eXdnbWZxc3VvdTc1NDV1Z3NxcXBodzZ0aXduZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/88V19j2kRgfcxA9lp6/giphy.gif" width="280"/>
 
 ### 👾 Sobre mí
 
@@ -46,14 +46,6 @@
 
 ---
 
-### 🏆 Trofeos
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Maxchilo23&theme=matrix&no-frame=true&row=1&column=6&margin-w=10"/>
-</p>
-
----
-
 ### 📊 Mis estadísticas en GitHub
 
 <p align="center">
@@ -78,15 +70,6 @@
 
 ---
 
-### 🗂 Proyectos destacados
-
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| [Tu proyecto](https://github.com/Maxchilo23) | Descripción corta | React, TypeScript |
-| [Tu proyecto](https://github.com/Maxchilo23) | Descripción corta | Node.js, PostgreSQL |
-
----
-
 ### 📬 Contacto
 
 <p align="center">
@@ -97,7 +80,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWJkamw2bDAyMTlkNGtiMzB5bnVsMWk3dW1uczF2N2gwNHUyaHIxdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l4cs8eGd9JtIuEjf7T/giphy.gif" width="200"/>
 </p>
 
 <p align="center">

@@ -3,7 +3,7 @@
 <h1 align="center">¡Hola! Soy Max 👾</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&pause=1000&color=9ece6a&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Node.js;Clean+code+%26+good+vibes+%E2%9A%A1"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&pause=1000&color=9ece6a&center=true&vCenter=true&width=380&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Node.js;Clean+code+%26+good+vibes+%E2%9A%A1"/>
 </p>
 
 <p align="center">
@@ -12,7 +12,9 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NGk2MDRubDFqM3p4eXdnbWZxc3VvdTc1NDV1Z3NxcXBodzZ0aXduZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/88V19j2kRgfcxA9lp6/giphy.gif" width="280"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NGk2MDRubDFqM3p4eXdnbWZxc3VvdTc1NDV1Z3NxcXBodzZ0aXduZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/88V19j2kRgfcxA9lp6/giphy.gif" width="220"/>
+</p>
 
 ### 👾 Sobre mí
 
@@ -22,8 +24,6 @@
 - 🌍 Lima, Perú
 - 🗣 Español (nativo) · Inglés (intermedio)
 - 📫 ¿Hablamos? Encuéntrame aquí en GitHub
-
-<br clear="right"/>
 
 ---
 
@@ -49,17 +49,19 @@
 ### 📊 Mis estadísticas en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Maxchilo23&show_icons=true&theme=tokyonight&hide_border=true&icon_color=9ece6a" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Maxchilo23&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Maxchilo23&show_icons=true&theme=tokyonight&hide_border=true&icon_color=9ece6a"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maxchilo23&theme=tokyonight" width="100%"/>
+  <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Maxchilo23&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maxchilo23&theme=tokyonight&hide_border=true"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maxchilo23&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Maxchilo23&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---

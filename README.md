@@ -1,6 +1,6 @@
-<img width="100%" src="./banner.gif" alt="Banner"/>
+<img width="100%" src="./banner2.gif" alt="Banner"/>
 
-<h1 align="center">¡Hola! Soy Max 👋</h1>
+<h1 align="center">¡Hola! Soy Max</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">

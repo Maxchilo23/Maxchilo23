@@ -1,11 +1,10 @@
 <img width="100%" src="./banner2.gif" alt="Banner"/>
 
-<h1 align="center">¡Hola! Soy Max</h1>
+<h1 align="center">¡Hola! Soy Max 👋</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Frontend+Developer+%F0%9F%9A%80;React+%7C+TypeScript+%7C+Node.js;Código+limpio+y+bien+estructurado+%E2%9A%A1"/>
-  </a>
+  <b>Frontend Developer · React · TypeScript · Node.js</b><br/>
+  Apasionado por construir interfaces limpias y experiencias de usuario increíbles.
 </p>
 
 ---
@@ -38,9 +37,13 @@
 ### 📊 Mis estadísticas en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maxchilo23&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Maxchilo23&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxchilo23&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Maxchilo23&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maxchilo23&theme=tokyonight" width="100%"/>
 </p>
 
 <p align="center">
